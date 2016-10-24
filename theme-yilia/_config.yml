@@ -44,7 +44,7 @@ favicon: /favicon.png
 avatar: /photos/damotiansheng.png
 
 #是否开启分享
-share_jia: true
+share_jia: false
 share_addthis: false
 #share_addthis: true
 
